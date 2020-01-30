@@ -1,0 +1,24 @@
+[
+Nome Empresa: Vanda
+Cidade: Braga - Rua: Gualtar
+Objetivo: Vender <-> COMERCIO
+,
+Nome Empresa: OlaOla
+Cidade: Braga - Rua: Gualtar
+Objetivo: Vender <-> INDUSTRIA
+,
+Nome Empresa: JaFoste
+Cidade: Braga - Rua: Gualtar
+Objetivo: Vender <-> COMERCIO
+;
+Socio: Ricado <-> 1000€ <-> 25% <-> ADMINISTRADOR
+Socio: Bruno <-> 1000€ <-> 25% <-> ADMINISTRADOR
+Socio: Rafael <-> 1000€ <-> 25% <-> ADMINISTRADOR
+Socio: Joao <-> 1000€ <-> 25% <-> ADMINISTRADOR
+;
+Funcionario: Gervasio <-> F9999 <-> 22/03/1994 <-> Telemovel: 93121234 & Email: gervasio@hotmail.com <-> GERENTE <-> 01/09/2019
+Funcionario: Maria <-> F9449 <-> 22/03/1994 <-> Telemovel: 93132134 & Email: maria@hotmail.com <-> PRODUCAO <-> 01/09/2019
+;
+AG: 1 <-> Presidente: Ricardo <-> Socios: Bruno , Rafael
+AG: 2 <-> Presidente: Rafael <-> Socios: Bruno
+]

@@ -1,0 +1,9 @@
+
+function iffunc (intx,inty) {
+ if(0<y){
+       res = res + x;
+       y = y - 1;
+   }
+
+}
+
